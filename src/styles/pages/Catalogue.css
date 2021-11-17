@@ -1,0 +1,12 @@
+.catalogue .jumbotron {
+  border-radius: 0 0 25px 25px;
+}
+.catalogue h1 {
+  color: white;
+  margin-top: 0;
+  font-size: 1.3rem;
+  text-shadow: 0 3px 5px black;
+}
+.catalogue ul {
+  list-style: ">";
+}

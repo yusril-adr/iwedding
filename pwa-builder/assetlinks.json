@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.web.iwedding.twa",
+                     "sha256_cert_fingerprints": ["A7:94:89:BB:A6:D6:A9:E9:F2:0F:D5:45:72:A4:59:3D:03:7C:0C:1D:5F:00:28:DE:C9:AC:E7:C7:97:7D:9B:90"] }
+      }
+]

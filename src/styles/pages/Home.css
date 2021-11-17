@@ -1,0 +1,16 @@
+.home .jumbotron {
+  border-radius: 0 0 25px 25px;
+  height: 300px;
+}
+.home h1 {
+  color: white;
+  margin-top: 0;
+  text-shadow: 0 3px 5px black;
+}
+.home div + div {
+  background-color: transparent;
+}
+.home .card p {
+  font-weight: bold;
+  margin-left: 1rem;
+}
